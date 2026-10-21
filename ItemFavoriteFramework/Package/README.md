@@ -34,7 +34,7 @@ While the inventory is open, hold **Alt**:
 |Toggle Slot Favorite | Alt + right click a slot | ![favorite slot](https://github.com/MidnightsFX/ValheimItemFavoriteFramework/blob/master/docs/images/border_slot.png?raw=true) ![favorite item in a favorite slot](https://github.com/MidnightsFX/ValheimItemFavoriteFramework/blob/master/docs/images/border_slot_favorite.png?raw=true) |
 |Toggle Trash | Alt + middle click an item | ![trash](https://github.com/MidnightsFX/ValheimItemFavoriteFramework/blob/master/docs/images/border_trash.png?raw=true) |
 |Toggle Trash (Alternative) | Left Alt + Left Ctrl + left click an item | ![trash](https://github.com/MidnightsFX/ValheimItemFavoriteFramework/blob/master/docs/images/border_trash.png?raw=true) |
-|Add to/remove from Wishlist | Left Alt + Left Shift + left click an item |  |
+|Add to/remove from Wishlist | Left Alt + Left Shift + left click an item | ![wishlist](https://github.com/MidnightsFX/ValheimItemFavoriteFramework/blob/master/docs/images/wishlist_heart.png?raw=true) |
 
 Items can be marked inside an open chest too. Slots can only be favorited in your own inventory.
 
