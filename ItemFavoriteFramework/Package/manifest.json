@@ -1,0 +1,11 @@
+{
+  "name": "ItemFavoriteFramework",
+  "description": "Favorite items and slots, flag trash, keep a wishlist, and roll need/greed for shared loot. Deposit, stack and sort features leave favorites alone, and Epic Loot won't sacrifice them. Public API for mod authors.",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/MidnightsFX/ValheimItemFavoriteFramework",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333",
+    "ValheimModding-Jotunn-2.27.1",
+    "ValheimModding-YamlDotNet-16.3.1"
+  ]
+}
