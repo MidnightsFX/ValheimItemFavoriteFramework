@@ -1,4 +1,4 @@
-**0.0.1**
+**1.0.0**
 ```
 - Initial release.
 - Favorite items (weapons, armor and tools individually; stackables by type), favorite inventory slots, and flag items as trash.

@@ -18,7 +18,7 @@
 <Project>
 
   <!-- ==================== solution root ==================== -->
-  <!-- Post-build targets reach for the Unity project, scripts/publish.ps1 and similar as
+  <!-- Post-build targets reach for the Unity project and similar as
        $(SolutionDir)X. MSBuild only defines SolutionDir when the build goes through the .sln;
        a direct `dotnet build Foo.csproj` leaves it undefined, and those paths then resolve to
        the literal "*Undefined*X" - a silently skipped copy at best, MSB3073 at worst. This file
